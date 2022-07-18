@@ -1,0 +1,51 @@
+#parteA {
+    display: flex;
+    background-color: #F87474;
+    height: 20vh;
+    padding: 0;
+    justify-content: space-between;
+}
+
+#parteB {
+    display: flex;
+    background-color: #564297;
+    height: 80vh;
+    padding: 0;
+
+}
+body{
+    padding: 0%;
+}
+#parteA .dropdown img{
+    height: 60px;
+    background-color: #F87474;
+}
+
+#parteA .logo{
+    display: flex;
+    height: 100px;
+    margin-right: 10%;
+}
+
+#parteB .formulario{
+    background-color: rgb(197, 183, 223, 0.70);
+    width: 400px;
+    height: 500px;
+    border-radius: 5px;
+    padding: 30px;
+    margin-left: 5%;
+}
+#parteB .formulario input{
+    width: 100%;
+    padding: 15px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    border-width: 0;
+}
+
+#parteB img{
+    height: 200px;
+    margin-left: 15%;
+    margin-top: 10%;
+}
